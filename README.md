@@ -1,72 +1,93 @@
-<!-- 
-  🎨 CIVIVE UNLIMITED // GITHUB PROFILE
-  "The Future Is Unwritten."
--->
+<p align="center">
+  <img src="./assets/civive-logo-clean.jpg" alt="Civive Unlimited logo" width="520" />
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=CIVIVE%20UNLIMITED&fontSize=90&fontColor=00f3ff&fontAlign=50&animation=fadeIn&desc=Blue%20Collar%20Roots.%20Silicon%20Valley%20Code.&descSize=25&descAlign=50" alt="Civive Unlimited Header" width="100%" />
-</div>
+<h1 align="center">Civive Unlimited</h1>
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=BD00FF&center=true&vCenter=true&width=600&lines=Architecting+Intelligence.;Turning+Wrenches+into+Algorithms.;25+Years+HVAC+%E2%86%92+Cloud+Native.;Building+the+Future+of+Vertical+SaaS.)](https://git.io/typing-svg)
+<p align="center">
+  <strong>AI growth systems for businesses that cannot afford to miss calls, leads, or follow-up.</strong>
+</p>
 
-</div>
+<p align="center">
+  AI receptionists | missed-call recovery | booking automation | CRM follow-up | AI search visibility
+</p>
 
----
-
-### ⚡ The Origin Story
-
-> *"I spent 25 years in the mechanical room so I could build the operating system for it."*
-
-I am **Scott**, a Journeyman HVAC Technician turned **Full-Stack Founder**. 
-I don't just write code; I build tools for the people who build the world. 
-
-We are bridging the gap between **Trade Skills** and **Artificial Intelligence**.
-
----
-
-### 🚀 The Empire
-
-| **Project** | **Status** | **Mission** |
-| :--- | :--- | :--- |
-| **🛡️ ClaimShield AI** | `[System: ONLINE]` | Automating warranty claims for the trades. Fighting refusal by friction. |
-| **👁️ Vindicore** | `[System: CLASSIFIED]` | Next-gen agency architectures. |
-| **🌐 Civive.com** | `[System: BUILDING]` | The digital command center. |
-
----
-
-### 🛠️ The Armory
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,python,gcp,vercel,postgres,tailwind,docker,git&perline=10" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=vscode,cursor,linux,bash,powershell,github,notion,openai,gemini&perline=9" />
-</div>
-
----
-
-### 📊 System Telemetry
-
-<div align="center">
-  <a href="https://github.com/CIVIVEUNLTD">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CIVIVEUNLTD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f3ff&icon_color=bd00ff&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CIVIVEUNLTD&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f3ff&text_color=ffffff" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <h3>📫 Comm Link</h3>
-  <a href="https://civiveunlimited.com">
-    <img src="https://img.shields.io/badge/HQ-civiveunlimited.com-000000?style=for-the-badge&logo=vercel&logoColor=white&color=black&labelColor=black&border=1px_solid_#333" />
+<p align="center">
+  <a href="https://www.civiveunlimited.com">
+    <img src="https://img.shields.io/badge/Website-civiveunlimited.com-0B1020?style=for-the-badge" alt="Civive Unlimited website" />
   </a>
   <a href="mailto:ceo@civiveunlimited.com">
-    <img src="https://img.shields.io/badge/SIGNAL-ceo@civiveunlimited.com-000000?style=for-the-badge&logo=gmail&logoColor=white&color=black&labelColor=black&border=1px_solid_#333" />
+    <img src="https://img.shields.io/badge/Email-ceo%40civiveunlimited.com-3B1D74?style=for-the-badge" alt="Email Civive Unlimited" />
   </a>
-</div>
+  <a href="https://github.com/CIVIVEUNLTD">
+    <img src="https://img.shields.io/badge/GitHub-CIVIVEUNLTD-111827?style=for-the-badge&logo=github" alt="CIVIVEUNLTD on GitHub" />
+  </a>
+</p>
 
-<div align="center">
-  <p><i>"The difficult we do immediately. The impossible takes a little longer."</i></p>
-</div>
+<img src="./assets/civive-ai-ops-hero.jpg" alt="Civive Unlimited AI operations dashboard for calls, booking, CRM, and AI search visibility" width="100%" />
+
+## What Civive Builds
+
+Civive Unlimited builds practical AI operating systems for local and service businesses. The goal is simple: answer faster, qualify better, book more reliably, follow up longer, and turn more demand into revenue.
+
+We focus on systems that sit close to the money:
+
+- AI receptionists and voice agents for inbound calls, qualification, and routing
+- Missed-call recovery that turns lost calls into conversations and bookings
+- Booking flows, lead intake, pipeline hygiene, and CRM automation
+- GoHighLevel-style follow-up systems for speed-to-lead and nurture
+- AI Search Readiness audits that identify visibility gaps and improve the signals AI tools rely on
+- Reusable software assets that can become repeatable client systems or productized SaaS features
+
+## Operating System
+
+<img src="./assets/civive-growth-workflow.jpg" alt="Civive Unlimited revenue automation workflow from AI receptionist to booking, CRM follow-up, and reporting" width="100%" />
+
+| Layer | What it handles | Business outcome |
+| --- | --- | --- |
+| Capture | Calls, forms, chats, missed calls, and search intent | Fewer leads leak out of the business |
+| Convert | AI receptionist flows, qualification, scheduling, and handoff | More booked conversations from the same demand |
+| Follow up | CRM tasks, SMS/email nurture, pipeline movement, and reminders | Prospects keep moving after the first touch |
+| Measure | Source tracking, audit reports, booking data, and system health | Operators can see what is working |
+| Improve | Reusable scripts, agents, playbooks, and product modules | Every client build strengthens the next one |
+
+## Current Build Direction
+
+| Area | Purpose |
+| --- | --- |
+| OpenClaw | Open-source AI operating partner for running business workflows, tools, checks, and handoffs |
+| Civive Growth Systems | AI receptionist, missed-call recovery, lead automation, booking, and follow-up infrastructure |
+| AI Search Readiness | Audits and fixes for businesses that need visibility in AI-generated recommendations |
+| FoldScore | Landing-page intelligence and Fix Pack generation for faster conversion improvements |
+| Client Delivery Assets | Repeatable systems, templates, dashboards, and automations for service businesses |
+
+## Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-0B1020?style=for-the-badge&logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-0B1020?style=for-the-badge&logo=nextdotjs" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-0B1020?style=for-the-badge&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Supabase-0B1020?style=for-the-badge&logo=supabase" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Vercel-0B1020?style=for-the-badge&logo=vercel" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Postgres-0B1020?style=for-the-badge&logo=postgresql" alt="Postgres" />
+  <img src="https://img.shields.io/badge/GoHighLevel-0B1020?style=for-the-badge" alt="GoHighLevel" />
+  <img src="https://img.shields.io/badge/OpenAI-0B1020?style=for-the-badge&logo=openai" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-0B1020?style=for-the-badge&logo=githubactions" alt="GitHub Actions" />
+</p>
+
+## How We Work
+
+Civive is built around execution, verification, and leverage. We prefer durable systems over one-off hacks: clean APIs, scripts, MCP-compatible tools, runbooks, dashboards, structured logs, and handoff notes that Scott, OpenClaw, and Codex can all use.
+
+The best Civive systems are practical enough to help a business this week and structured enough to become stronger reusable software over time.
+
+## Work With Civive
+
+If your business is missing calls, responding slowly, losing leads after the first touch, or unsure how it shows up in AI search results, Civive can build the operating layer that closes the gap.
+
+<p align="center">
+  <a href="https://www.civiveunlimited.com"><strong>Visit civiveunlimited.com</strong></a>
+  &nbsp;|&nbsp;
+  <a href="mailto:ceo@civiveunlimited.com"><strong>Email ceo@civiveunlimited.com</strong></a>
+</p>
